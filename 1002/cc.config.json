@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "1002",
+    "deps": [],
+    "uuids": [
+        "470c5fb4-c596-4220-87cc-2bda8226a330",
+        "78145bde-3f58-4aee-83b4-02fb236f302b",
+        "923f2796-707f-4211-978e-9131b7ea7904",
+        "b08f2640-35f3-4eaa-8238-ca104ddd6bcf",
+        "b08f2640-35f3-4eaa-8238-ca104ddd6bcf@6c48a",
+        "f48124de-9d0e-4ce1-b4b7-d8f7d29599df"
+    ],
+    "paths": {
+        "f48124de-9d0e-4ce1-b4b7-d8f7d29599df": [
+            "config",
+            "cc.JsonAsset"
+        ],
+        "470c5fb4-c596-4220-87cc-2bda8226a330": [
+            "gpx",
+            "cc.Asset"
+        ],
+        "b08f2640-35f3-4eaa-8238-ca104ddd6bcf": [
+            "thumbnail",
+            "cc.ImageAsset"
+        ],
+        "b08f2640-35f3-4eaa-8238-ca104ddd6bcf@6c48a": [
+            "thumbnail/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "78145bde-3f58-4aee-83b4-02fb236f302b": [
+            "info",
+            "cc.JsonAsset"
+        ],
+        "923f2796-707f-4211-978e-9131b7ea7904": [
+            "video",
+            "cc.VideoClip"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true
+}
