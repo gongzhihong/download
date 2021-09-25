@@ -1,0 +1,33 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "1002",
+    "deps": [],
+    "uuids": [
+        "475ae115-64c1-432f-8382-78e07eb75f50",
+        "6ac4880e-0f10-486f-a3e3-9e46e192ae8f",
+        "8f774376-b985-4f7f-af8a-6ec3081552fb"
+    ],
+    "paths": {
+        "8f774376-b985-4f7f-af8a-6ec3081552fb": [
+            "config",
+            "cc.JsonAsset"
+        ],
+        "6ac4880e-0f10-486f-a3e3-9e46e192ae8f": [
+            "gpx",
+            "cc.Asset"
+        ],
+        "475ae115-64c1-432f-8382-78e07eb75f50": [
+            "info",
+            "cc.JsonAsset"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true
+}
