@@ -1,0 +1,64 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "1002",
+    "deps": [],
+    "uuids": [
+        "057027a1-d791-435d-8706-3cb258fa2fe8",
+        "057027a1-d791-435d-8706-3cb258fa2fe8@6c48a",
+        "075073ad7",
+        "0b64075af",
+        "6f9140b4-87e8-4f02-b277-f4cb82a0d6e9",
+        "6f9140b4-87e8-4f02-b277-f4cb82a0d6e9@6c48a",
+        "846cccfe-8060-40e5-98f1-93f5a062d580",
+        "846cccfe-8060-40e5-98f1-93f5a062d580@6c48a"
+    ],
+    "paths": {
+        "846cccfe-8060-40e5-98f1-93f5a062d580": [
+            "bgBtnConfirm",
+            "cc.ImageAsset"
+        ],
+        "846cccfe-8060-40e5-98f1-93f5a062d580@6c48a": [
+            "bgBtnConfirm/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6f9140b4-87e8-4f02-b277-f4cb82a0d6e9": [
+            "btnCircle",
+            "cc.ImageAsset"
+        ],
+        "6f9140b4-87e8-4f02-b277-f4cb82a0d6e9@6c48a": [
+            "btnCircle/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "057027a1-d791-435d-8706-3cb258fa2fe8": [
+            "button",
+            "cc.ImageAsset"
+        ],
+        "057027a1-d791-435d-8706-3cb258fa2fe8@6c48a": [
+            "button/texture",
+            "cc.Texture2D",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "075073ad7": [
+            "6f9140b4-87e8-4f02-b277-f4cb82a0d6e9",
+            "846cccfe-8060-40e5-98f1-93f5a062d580",
+            "057027a1-d791-435d-8706-3cb258fa2fe8"
+        ],
+        "0b64075af": [
+            "6f9140b4-87e8-4f02-b277-f4cb82a0d6e9@6c48a",
+            "846cccfe-8060-40e5-98f1-93f5a062d580@6c48a",
+            "057027a1-d791-435d-8706-3cb258fa2fe8@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true
+}
